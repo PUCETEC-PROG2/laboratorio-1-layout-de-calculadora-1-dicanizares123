@@ -5,9 +5,9 @@
 
 **Completa la siguiente información antes de comenzar:**
 
-- **Nombre completo**: _____________________________
-- **Carrera**: _____________________________
-- **Fecha de entrega**: _____________________________
+- **Nombre completo**: David Canizares
+- **Carrera**: Desarollo de Software 
+- **Fecha de entrega**: 21-10-2025
 
 ---
 
